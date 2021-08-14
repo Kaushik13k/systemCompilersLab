@@ -1,0 +1,3 @@
+4. Design, develop and implement YACC/C program to demonstrate Shift Reduce
+Parsing technique for the grammar rules: E E+T | T, T T*F | F, F (E) | id and parse the
+sentence: id + id * id.
